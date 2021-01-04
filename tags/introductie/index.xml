@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introductie on Ministerie van Cyber- en Digitalezaken</title>
+    <link>https://example.com/tags/introductie/</link>
+    <description>Recent content in introductie on Ministerie van Cyber- en Digitalezaken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Mon, 07 Sep 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/introductie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>En toen was er ineens</title>
+      <link>https://example.com/post/en-toen-was-er/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/en-toen-was-er/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
