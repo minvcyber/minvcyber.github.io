@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Over on Ministerie van Cyber- en Digitalezaken</title>
-    <link>https://example.com/about/</link>
+    <link>https://www.minvcyber.nl/about/</link>
     <description>Recent content in Over on Ministerie van Cyber- en Digitalezaken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     
-	<atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.minvcyber.nl/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

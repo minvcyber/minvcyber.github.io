@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ministerie van Cyber- en Digitalezaken</title>
-    <link>https://example.com/tags/</link>
+    <link>https://www.minvcyber.nl/tags/</link>
     <description>Recent content in Tags on Ministerie van Cyber- en Digitalezaken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 07 Sep 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.minvcyber.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>introductie</title>
-      <link>https://example.com/tags/introductie/</link>
+      <link>https://www.minvcyber.nl/tags/introductie/</link>
       <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/introductie/</guid>
+      <guid>https://www.minvcyber.nl/tags/introductie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maar dan niet echt</title>
-      <link>https://example.com/tags/maar-dan-niet-echt/</link>
+      <link>https://www.minvcyber.nl/tags/maar-dan-niet-echt/</link>
       <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/maar-dan-niet-echt/</guid>
+      <guid>https://www.minvcyber.nl/tags/maar-dan-niet-echt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ministerie</title>
-      <link>https://example.com/tags/ministerie/</link>
+      <link>https://www.minvcyber.nl/tags/ministerie/</link>
       <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/ministerie/</guid>
+      <guid>https://www.minvcyber.nl/tags/ministerie/</guid>
       <description></description>
     </item>
     
